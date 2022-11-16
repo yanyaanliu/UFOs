@@ -14,7 +14,7 @@
   
 
    - The results based on your criteria of choice will display on the website: <br>
-<img src="./static/images/results.png" width="800" height="400">
+<img src="./static/images/results.png" width="700" height="400">
   
 
 ## Summary

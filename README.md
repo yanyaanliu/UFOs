@@ -1,5 +1,3 @@
-# UFOs
-
 ## Overview of project
    
   Previously, we have created a table to organize UFO data that is stored as a JavaScript array, or list. The table is fully dynamic and has the ability to filter data based on a certain date. Then we placed the table into an HTML file for easy viewing.
@@ -21,9 +19,10 @@
   
 
 ## Summary
- - One drawback on the webpage is that it is not very user friendly. For examples, there's no filter or reset button to click on.
- - The data on the website is limited. 
- - Recomendations: 
+ - Drawbacks: 
+  - It is not very user friendly. For examples, there's no filter or reset button to click on.
+  - The data on the website is limited. 
+ - Recommendations: 
    - Add a filer button 
    - Add a reset button to remove criteria for a new search
    - The colours on the website are too plain, better design could be implemented

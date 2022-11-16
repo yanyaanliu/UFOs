@@ -10,7 +10,7 @@
    To use the search criteria: <br>
    - Enter the date, city, state, country and shape that you want to search and click enter:<br>
 
-  <img src="./static/images/search_criteria.png" width="800" height="400">
+  <img src="./static/images/search_criteria.png" width="400" height="800">
   
 
    - The results based on your criteria of choice will display on the website: <br>

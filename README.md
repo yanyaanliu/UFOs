@@ -20,8 +20,8 @@
 
 ## Summary
  - Drawbacks: 
-  - It is not very user friendly. For examples, there's no filter or reset button to click on.
-  - The data on the website is limited. 
+   - It is not very user friendly. For examples, there's no filter or reset button to click on.
+   - The data on the website is limited. 
  - Recommendations: 
    - Add a filer button 
    - Add a reset button to remove criteria for a new search

@@ -4,7 +4,6 @@
   This webpage and dynamic table are working as intended, but we'd like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. The filters added to this table are city, state, country, and shape.
 
   
-   -
 
 ## Results
    Let's see how we can use this webpage. <br>
